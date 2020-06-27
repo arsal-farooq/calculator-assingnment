@@ -1,0 +1,77 @@
+.one{
+     border: 2px solid cadetblue; 
+    width: 313px;
+    height: 370px;
+    margin: 50px auto;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_EPYsVkrxVKzctkZ2Sdd85oqzqV2ZcYqX9g&usqp=CAU); 
+    padding-left: 20px; 
+    padding-bottom: 5px;  
+   
+}
+.two{
+    width: 70px;
+    height: 69px;
+    color: white;
+    background-color: #364F6b;
+    font-size: 22px;
+    margin-top: 2px;
+    outline: none;
+    opacity: 0.8;
+    
+    
+    
+    
+    
+
+}
+
+.two:hover{
+  background-color: rgb(80, 159, 161);
+  border-radius: 50px 50px 50px 50px;
+
+ 
+  
+ 
+  
+}
+.five{
+    margin-top: 10px;
+}
+
+
+.three{
+    width: 210px;
+    height: 60px;
+    margin-bottom: 2px;
+    border: 2px solid cadetblue;
+    font-size: 30px;
+    color:  darkkhaki;
+    
+ 
+}
+.four{
+    margin-top: 2px;
+}
+
+.seven{
+    width: 70px;
+    height: 69px;
+    color: white;
+    background-color: #364F6b;
+    font-size: 22px;
+    margin-top: 2px;
+    opacity: 0.8;
+    outline: none;
+    margin-right: 20px;
+   
+}
+
+.seven:hover{
+    background-color:   cadetblue;
+    border-radius: 40px 40px 40px 40px;
+    
+    
+
+}
+
+
